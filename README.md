@@ -4,7 +4,20 @@ Repository to share the final tools developed for my Bachellor final Project. It
 
 ## Instalation
 
-TODO
+The initial requirement for the installation is to have git, python 3.9 and pip installed.
+
+Then you need to download the repository and enter the folder:
+
+~~~
+git clone https://github.com/pabagcha/toki-pona-tools.git
+cd toki-pona-tools
+~~~
+
+Finally you must install all the dependencies with the command:
+
+~~~
+pip install -r requirements.txt
+~~~
 
 ## USAGE
 
