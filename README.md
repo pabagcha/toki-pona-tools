@@ -13,6 +13,7 @@ Then you need to download the repository and enter the folder:
 ~~~
 git clone https://github.com/pabagcha/toki-pona-tools.git
 cd toki-pona-tools
+git lfs pull
 ~~~
 
 Finally you must install all the dependencies with the command:
